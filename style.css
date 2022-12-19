@@ -20,7 +20,7 @@ body{
 .title{
 	height: 80px;
 	width: 100%;
-	position: absolute;
+	position: fixed;
 	color: white;
 	/*border : 1px solid black;*/
 	text-align: center;
