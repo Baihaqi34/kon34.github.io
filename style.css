@@ -145,7 +145,7 @@ button{
 
 
 
-@media (max-width: 600px){
+@media (max-width: 720px){
 	.container{
 		display: grid;
 		height: 100vh;
